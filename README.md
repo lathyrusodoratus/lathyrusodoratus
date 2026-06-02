@@ -6,7 +6,7 @@
 <p>below are some random facts about me and stuff!
 <i>
 <br>
-- my github username, lathyrusodoratus, is in reference to a purple sweet pea that also goes by the name heathcliff! .. even if there's no distinction with the actual scientific name.. just look up lathyrus odoratus heathcliff and you'll understand what i mean
+- my github username, lathyrusodoratus, is in reference to a purple sweet pea that also goes by the name heathcliff! <sub>.. even if there's no distinction between color with the scientific name.. just look up lathyrus odoratus heathcliff and you'll understand what i mean</sub>
 <br>
 - my strawpage, callunavulgaris, is in reference to the common heather, which is the primary plant in heathland terrain!
 <br>
